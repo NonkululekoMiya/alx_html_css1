@@ -1,7 +1,7 @@
 # CSS Advanced Project
 
 ## Overview
-This project is build up from the advanced HTML project. Here, we apply all the knowledge gained from HTM and CSS modules in the ALX front-end development course.
+This project is about a SmileSchool website and is build up from the advanced HTML project. Here, we apply all the knowledge gained from HTM and CSS modules in the ALX front-end development course.
 
 The project also aims to connect UI Design wireframing based on a Figma file with HTML and ultimately CSS.
 
@@ -21,3 +21,5 @@ The following topics are covered in the project:
 #### CSS
 * External stylesheets
 * Adding styles to an element
+
+<img src="images/logo.png" alt="web logo">
